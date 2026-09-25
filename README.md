@@ -198,11 +198,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
+
+```
+
+
 ## Output
 <img width="576" height="581" alt="image" src="https://github.com/user-attachments/assets/1824232d-d27d-43da-b5ed-4351c987fd71" />
 
 ## Result
 The push button was successfully interfaced with the STM32 microcontroller. The LED connected to PA5 turned ON when the push button connected to PA0 was pressed (logic HIGH) and turned OFF when the push button was released (logic LOW).
+
 
 
 ```
